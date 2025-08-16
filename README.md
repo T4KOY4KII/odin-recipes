@@ -1,6 +1,6 @@
 # odin-recipes
 Hello, we are going to build a basic recipe website today.
-
+Open the index.html to access the website 
 References:
 
 AllRecipes. (2019). Beef Nacho Casserole. Allrecipes. https://www.allrecipes.com/recipe/60022/beef-nacho-casserole
