@@ -1,0 +1,51 @@
+.recipesList{
+    border: 2px dashed blue;
+    width: 300px;
+    padding: 10px 20px;
+    margin: 8px;
+}
+
+.title{
+
+    margin: 8px;
+}
+
+.homepage {
+    background-color: honeydew;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 16px;
+}
+
+.homepage.title{
+    text-align: left;
+}
+
+.recipePage{
+    background-color: honeydew;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.recipeSection{
+    margin: 16px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+div.recipeSection ul, div.recipeSection ol{
+    margin: 16px 16px;
+    text-align: match-parent;
+}
+
+div.recipeSection h1, h2, p{
+    text-align: center;
+    margin: 8px;
+}
+
+div.recipeSection p{
+    text-align: center;
+    margin-bottom: 32px;
+}
+.recipePage img{
+    display: block;
+    margin: 0 auto;
+}
